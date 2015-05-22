@@ -68,5 +68,5 @@ theme: jacman
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repo: git@github.com:xiuling/xiuling.github.io.git
